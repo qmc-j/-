@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "powershell -WindowStyle Hidden -Command Clear-RecycleBin -Force", 0, True
